@@ -1,0 +1,19 @@
+{
+  "name": "test_projects",
+  "version": "1.0.0",
+  "description": "node js test project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "author": "saif raza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
